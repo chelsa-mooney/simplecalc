@@ -1,2 +1,2 @@
 # simplecalc
-a simple calculator 
+a simple calculator created during boot camp 
